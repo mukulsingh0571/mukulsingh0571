@@ -4,12 +4,13 @@
 
 ###
 
+<br clear="both">
 
 <h2 align="left">Programming Languages</h2>
 
 ###
 
-<br clear="both">
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
@@ -29,7 +30,7 @@
 
 ###
 
-<br clear="both">
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
@@ -69,7 +70,7 @@
 
 ###
 
-<br clear="both">
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
@@ -91,7 +92,7 @@
 
 ###
 
-<br clear="both">
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
@@ -113,7 +114,7 @@
 
 ###
 
-<br clear="both">
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
