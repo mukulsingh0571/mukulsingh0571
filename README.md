@@ -4,7 +4,7 @@
 
 <!--<br clear="both">-->
 
-<h2 align="left">Programming Languages</h2>
+<h2 align="left">Programming Languages:</h2>
 
 ###
 
@@ -24,7 +24,7 @@
 
 
 
-<h2 align="left">Development Frameworks/Languages</h2>
+<h2 align="left">Development Frameworks/Languages:</h2>
 
 ###
 
@@ -64,7 +64,7 @@
 
 
 
-<h2 align="left">Database</h2>
+<h2 align="left">Database:</h2>
 
 ###
 
@@ -86,7 +86,7 @@
 
 
 
-<h2 align="left">Cloud Deployments</h2>
+<h2 align="left">Cloud Deployments:</h2>
 
 ###
 
@@ -108,7 +108,7 @@
 
 
 
-<h2 align="left">Other Tools</h2>
+<h2 align="left">Other Tools:</h2>
 
 ###
 
@@ -142,7 +142,7 @@
 
 <br clear="both">
 
-<h2 align="left">GitHub Stats</h2>
+<h2 align="left">GitHub Stats:</h2>
 
 ###
 
@@ -160,7 +160,7 @@
 ###
 
 
-<h2 align="left">Trophies</h2>
+<h2 align="left">Trophies:</h2>
 
 ###
 
@@ -173,7 +173,7 @@
 
 
 
-<h2 align="left">Connect with me</h2>
+<h2 align="left">Connect with me:</h2>
 
 ###
 
