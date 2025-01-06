@@ -202,6 +202,6 @@
 
 
 
-<img src="https://raw.githubusercontent.com/mukulsingh0571/mukulsingh0571/output/snake.svg" alt="Snake animation" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/HILAYTRIVEDI/HILAYTRIVEDI/output/github-contribution-grid-snake.svg" />
 
 ###
