@@ -24,7 +24,7 @@
 
 ###
 
-<br clear="both">
+
 
 <h2 align="left">Development Frameworks/Languages</h2>
 
@@ -64,7 +64,7 @@
 
 ###
 
-<br clear="both">
+
 
 <h2 align="left">Database</h2>
 
@@ -86,7 +86,7 @@
 
 ###
 
-<br clear="both">
+
 
 <h2 align="left">Cloud Deployments</h2>
 
@@ -108,7 +108,7 @@
 
 ###
 
-<br clear="both">
+
 
 <h2 align="left">Other Tools</h2>
 
