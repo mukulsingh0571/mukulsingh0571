@@ -159,13 +159,11 @@
 
 ###
 
-<br clear="both">
 
 <h2 align="left">Trophies</h2>
 
 ###
 
-<br clear="both">
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=mukulsingh0571&theme=tokyonight" height="150" alt="trophy graph"  />
@@ -173,13 +171,13 @@
 
 ###
 
-<br clear="both">
+
 
 <h2 align="left">Connect with me</h2>
 
 ###
 
-<br clear="both">
+
 
 <div align="center">
   <a href="mailto:mukulsingh0571@gmail.com?subject=Hey!%20I%20want%20to%20connect%20to%20you" target="_blank">
@@ -202,7 +200,7 @@
 
 ###
 
-<br clear="both">
+
 
 <img src="https://raw.githubusercontent.com/mukulsingh0571/mukulsingh0571/output/snake.svg" alt="Snake animation" />
 
