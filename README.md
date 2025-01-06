@@ -4,7 +4,7 @@
 
 ###
 
-<br clear="both">
+<!--<br clear="both">-->
 
 <h2 align="left">Programming Languages</h2>
 
