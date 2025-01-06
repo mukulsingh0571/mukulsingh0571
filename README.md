@@ -200,8 +200,8 @@
 
 ###
 
-
-
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/HILAYTRIVEDI/HILAYTRIVEDI/output/github-contribution-grid-snake.svg" />
+<div align=""center>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/HILAYTRIVEDI/HILAYTRIVEDI/output/github-contribution-grid-snake.svg" />
+</div>
 
 ###
