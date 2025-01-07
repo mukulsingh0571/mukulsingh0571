@@ -262,55 +262,46 @@ Feel free to reach out and collaborate with me!
 ###
 <table>
     <tr>
-        <th>Status dashboard</th>
-        <th>Tags dashboard</th>
-    </tr>
-    <tr>
         <td width="50%">
-            <a href="https://user-images.githubusercontent.com/8558/246819874-283e25d6-510a-4f33-ae24-1f57d533462d.png">
-                <img src="https://user-images.githubusercontent.com/8558/246819874-283e25d6-510a-4f33-ae24-1f57d533462d.png" width="100%">
+            <a href="https://user-images.githubusercontent.com/8558/246386732-78eda8f2-c308-411f-ba57-c1294f97b32b.png">
+                <img src="https://user-images.githubusercontent.com/8558/246386732-78eda8f2-c308-411f-ba57-c1294f97b32b.png" width="100%">
             </a>
         </td>
         <td width="50%">
-            <a href="https://user-images.githubusercontent.com/8558/246406488-1b7013b0-36c0-4e8d-90bf-7814d5c8e180.png">
-                <img src="https://user-images.githubusercontent.com/8558/246406488-1b7013b0-36c0-4e8d-90bf-7814d5c8e180.png" width="100%">
+            <a href="https://user-images.githubusercontent.com/8558/246387053-4c9d372d-017d-400a-a783-346905c86d37.png">
+                <img src="https://user-images.githubusercontent.com/8558/246387053-4c9d372d-017d-400a-a783-346905c86d37.png" width="100%">
             </a>
         </td>
     </tr>
     <tr>
-        <td width="50%">Display and overview and offer actions to manipulate your project state.</td>
-        <td width="50%">View and manipulate local and remote tags.</td>
+        <td width="50%">Note the visual connection between fixup commits and the commits they are associated with.</td>
+        <td width="50%">When the cursor is positioned on a fixup (or squash) commit, the `[r]`ebase menu will provide a specific action to apply that fixup.</td>
     </tr>
 </table>
 
-<table>
-    <tr>
-        <th>Diff</th>
-    </tr>
-    <tr>
-        <td width="50%">
-            <a href="https://user-images.githubusercontent.com/8558/290011169-1af9e0e4-aadd-4539-b7ac-d4979b9d0910.mp4">
-                <img src="https://user-images.githubusercontent.com/8558/290011195-35d53963-fe57-4c46-b418-e8ed3bf02f54.gif" width="100%">
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">Stage, unstage or discard hunks, files or individual lines. <a href="https://user-images.githubusercontent.com/8558/290011169-1af9e0e4-aadd-4539-b7ac-d4979b9d0910.mp4">(video)</a></td>
-    </tr>
-</table>
+You can review any rebase afterwards.  E.g.
 
 <table>
     <tr>
-        <th>Github integration</th>
-    </tr>
-    <tr>
-        <td width="50%">
-            <a href="https://user-images.githubusercontent.com/8558/246403219-313ca580-d4ea-4125-a10d-5f72ef6571ec.png">
-                <img src="https://user-images.githubusercontent.com/8558/246403219-313ca580-d4ea-4125-a10d-5f72ef6571ec.png" width="100%">
+        <td width="33%">
+            <a href="https://user-images.githubusercontent.com/8558/246387264-b442cf0f-ab77-4694-a1ea-08d8e20a441a.png">
+                <img src="https://user-images.githubusercontent.com/8558/246387264-b442cf0f-ab77-4694-a1ea-08d8e20a441a.png" width="100%">
+            </a>
+        </td>
+        <td width="33%">
+            <a href="https://user-images.githubusercontent.com/8558/246387423-a2f6b82f-cf65-4566-af23-78fbc47f1382.png">
+                <img src="https://user-images.githubusercontent.com/8558/246387423-a2f6b82f-cf65-4566-af23-78fbc47f1382.png" width="100%">
+            </a>
+        </td>
+        <td width="33%">
+            <a href="https://user-images.githubusercontent.com/8558/246387583-9779f505-cdad-435a-8b65-3737845506eb.png">
+                <img src="https://user-images.githubusercontent.com/8558/246387583-9779f505-cdad-435a-8b65-3737845506eb.png" width="100%">
             </a>
         </td>
     </tr>
     <tr>
-        <td width="50%">Reference issues and collaborators in commits.  Open files on GitHub in the browser, with lines pre-selected.  Create pull requests.  Fork a repository.</td>
+        <td width="33%">Open the `[r]`ebase menu again.  (The currently checked out branch is named "which" here.)</td>
+        <td width="33%">Show the previous tip of the currently checked out branch side by side.</td>
+        <td width="33%">Showing the main menu, maybe show a diff between both variants or undo by selecting "Move ...".</td>
     </tr>
 </table>
