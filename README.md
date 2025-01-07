@@ -50,6 +50,9 @@ Feel free to reach out and collaborate with me!
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+  <a href="https://www.hackerearth.com/@mukulsingh0571" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=HackerEarth&logo=hackerearth&label=&color=2C3454&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerearth logo" />
+</a>
 </div>
 
 
