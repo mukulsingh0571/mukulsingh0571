@@ -93,13 +93,13 @@ Feel free to reach out and collaborate with me!
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
 <!--</div>-->
 
-###
+
 
 
 
 <!--<h2 align="left">Development Frameworks/Languages:</h2>-->
 
-###
+
 
 
 
@@ -133,13 +133,13 @@ Feel free to reach out and collaborate with me!
   <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
 <!--</div>-->
 
-###
+
 
 
 
 <!--<h2 align="left">Database:</h2>-->
 
-###
+
 
 
 
@@ -155,13 +155,13 @@ Feel free to reach out and collaborate with me!
   <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo"  />
 <!--</div>-->
 
-###
+
 
 
 
 <!--<h2 align="left">Cloud Deployments:</h2>-->
 
-###
+
 
 
 
@@ -177,13 +177,13 @@ Feel free to reach out and collaborate with me!
   <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo"  />
 <!--</div>-->
 
-###
+
 
 
 
 <!--<h2 align="left">Other Tools:</h2>-->
 
-###
+
 
 
 
@@ -209,7 +209,7 @@ Feel free to reach out and collaborate with me!
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jest" height="50" alt="jest logo"  />
-<!--</div>-->
+<!--</div>-->          // remove when organising categorically
 </div>
 
 ###
