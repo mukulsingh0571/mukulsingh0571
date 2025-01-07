@@ -13,11 +13,11 @@ I’m a **Computer Science and Engineering Graduate (B.Tech, 2024)** 🎓, dedic
 
 
 ## 💡 What I Do:
-- **💻 Frontend Development**: Building seamless user experiences using **React**, **Next.js**, and modern frameworks like **Tailwind CSS** and **Bootstrap**.  
-- **🔧 Backend Development**: Creating robust server-side logic with **Node.js**, **Express**, and **GraphQL**.  
-- **📦 Database Management**: Working with **MongoDB**, **MySQL**, and **PostgreSQL** for efficient data storage.  
-- **☁️ Cloud & DevOps**: Deploying applications with **AWS**, **Docker**, **Kubernetes**, **Vercel**, and **Netlify**.  
-- **💡 Full-Stack Solutions**: Building end-to-end applications using the **MERN stack**.  
+- 🛠️ Build scalable, user-friendly, and interactive web applications.
+- 💻 Design seamless front-end experiences using **React**, **Next.js**, and modern frameworks like **Tailwind CSS**.
+- 🗄️ Develop robust back-end systems using **Node.js**, **Express**, and **GraphQL**.
+- ☁️ Work on cloud deployments and containerization using **AWS**, **Docker**, and **Kubernetes**.
+- 📊 Manage databases with **MongoDB**, **MySQL**, and **PostgreSQL**.
 
 
 
