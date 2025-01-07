@@ -120,6 +120,14 @@ Feel free to reach out and collaborate with me!
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="50" alt="sass logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="graphql logo"  />
@@ -130,23 +138,19 @@ Feel free to reach out and collaborate with me!
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=webpack" height="50" alt="webpack logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="50" alt="terraform logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=jest" height="50" alt="jest logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=heroku" height="50" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="nginx logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="netlify logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="50" alt="terraform logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
   <img width="12" />
@@ -156,13 +160,10 @@ Feel free to reach out and collaborate with me!
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="50" alt="jest logo"  />
 </div>
 
 
