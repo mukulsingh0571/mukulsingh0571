@@ -209,7 +209,7 @@ Feel free to reach out and collaborate with me!
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jest" height="50" alt="jest logo"  />
-<!--</div>-->          // remove when organising categorically
+<!--</div>-->          <!-- remove when organising categorically  -->
 </div>
 
 ###
