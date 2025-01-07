@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋! Mukul Singh here!!<br>Welcome to my Full Stack Developer profile!!</h1>
 
-###
+---
 
 <!--<br clear="both">-->
 
@@ -10,7 +10,7 @@
 Hello there! I'm **Mukul Singh**, a passionate **Full Stack Developer** 🚀 from **Kanpur, India** 🇮🇳.  
 I’m a **Computer Science and Engineering Graduate (B.Tech, 2024)** 🎓, dedicated to crafting **modern, efficient, and impactful web solutions**.
 
----
+
 
 ## 💡 What I Do:
 - **💻 Frontend Development**: Building seamless user experiences using **React**, **Next.js**, and modern frameworks like **Tailwind CSS** and **Bootstrap**.  
