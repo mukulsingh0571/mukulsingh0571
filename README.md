@@ -97,7 +97,7 @@ Feel free to reach out and collaborate with me!
 
 
 
-<h2 align="left">Development Frameworks/Languages:</h2>
+<!--<h2 align="left">Development Frameworks/Languages:</h2>-->
 
 ###
 
@@ -137,7 +137,7 @@ Feel free to reach out and collaborate with me!
 
 
 
-<h2 align="left">Database:</h2>
+<!--<h2 align="left">Database:</h2>-->
 
 ###
 
@@ -159,7 +159,7 @@ Feel free to reach out and collaborate with me!
 
 
 
-<h2 align="left">Cloud Deployments:</h2>
+<!--<h2 align="left">Cloud Deployments:</h2>-->
 
 ###
 
@@ -181,7 +181,7 @@ Feel free to reach out and collaborate with me!
 
 
 
-<h2 align="left">Other Tools:</h2>
+<!--<h2 align="left">Other Tools:</h2>-->
 
 ###
 
