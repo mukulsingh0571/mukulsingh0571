@@ -14,10 +14,10 @@ I’m a **Computer Science and Engineering Graduate (B.Tech, 2024)** 🎓, dedic
 
 ## 💡 What I Do:
 - 🛠️ Build scalable, user-friendly, and interactive web applications.
-- 💻 Design seamless front-end experiences using **React** <img src="https://skillicons.dev/icons?i=java" height="25" alt="java logo"/>, **Next.js** <img src=""/>, and modern frameworks like **Tailwind CSS** <img src=""/> .
-- 🗄️ Develop robust back-end systems using **Node.js** <img src=""/>, **Express** <img src=""/>, and **GraphQL** <img src=""/>.
-- ☁️ Work on cloud deployments and containerization using **AWS** <img src=""/>, **Docker** <img src=""/>, and **Kubernetes** <img src=""/>.
-- 📊 Manage databases with **MongoDB** <img src=""/>, **MySQL** <img src=""/>, and **PostgreSQL** <img src=""/>.
+- 💻 Design seamless front-end experiences using **React**, **Next.js**, and modern frameworks like **Tailwind CSS** .
+- 🗄️ Develop robust back-end systems using **Node.js**, **Express**, and **GraphQL**.
+- ☁️ Work on cloud deployments and containerization using **AWS**, **Docker**, and **Kubernetes**.
+- 📊 Manage databases with **MongoDB**, **MySQL**, and **PostgreSQL**.
 
 
 
