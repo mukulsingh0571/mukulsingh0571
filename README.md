@@ -48,7 +48,7 @@ Feel free to reach out and collaborate with me!
 
 
 
-##My Coding Profiles
+## My Coding Profiles
 
 <a href="https://leetcode.com/mukulsingh0571" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
