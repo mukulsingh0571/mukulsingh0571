@@ -93,6 +93,7 @@ Feel free to reach out and collaborate with me!
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
@@ -109,6 +110,16 @@ Feel free to reach out and collaborate with me!
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="50" alt="sass logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="graphql logo"  />
@@ -120,15 +131,7 @@ Feel free to reach out and collaborate with me!
   <img src="https://skillicons.dev/icons?i=webpack" height="50" alt="webpack logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo"  />
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=heroku" height="50" alt="heroku logo"  />
@@ -138,6 +141,7 @@ Feel free to reach out and collaborate with me!
   <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="netlify logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo"  />
