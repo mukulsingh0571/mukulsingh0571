@@ -156,13 +156,7 @@ Feel free to reach out and collaborate with me!
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
   <img width="12" />
 </div>
 
