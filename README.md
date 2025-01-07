@@ -33,7 +33,7 @@ When I'm not coding, you can find me exploring tech blogs, playing video games, 
 
 ## 🌐 Let’s Connect:
 Feel free to reach out and collaborate with me!  
-<div align="center">
+<div>
   <a href="mailto:mukulsingh0571@gmail.com?subject=Hey!%20I%20want%20to%20connect%20to%20you" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
