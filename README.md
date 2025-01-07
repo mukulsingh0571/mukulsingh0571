@@ -21,17 +21,14 @@ I’m a **Computer Science and Engineering Graduate (B.Tech, 2024)** 🎓, dedic
 
 
 
-## 🎯 My Mission:
-- **📚 Keep Learning**: I believe in continuous learning and staying updated with cutting-edge technologies.  
-- **🤝 Collaboration**: Contribute to open-source projects and collaborate with developers worldwide.  
-- **🚀 Growth**: Strive to grow as a developer and make a meaningful impact in the tech community.
 
+### 🚀 Interests:
+- Creating dynamic and responsive websites.
+- Exploring DevOps tools and practices.
+- Learning about cutting-edge technologies like **AI** and **Blockchain**.
+- Contributing to open-source projects.
 
-
-## 🌟 Fun Facts About Me:
-- 🎮 I love gaming and exploring new tech!  
-- 🎯 Solving challenges on **HackerRank** and **LeetCode** is my idea of fun.  
-- 🍿 When I’m not coding, I’m probably binge-watching my favorite shows or reading tech blogs.
+When I'm not coding, you can find me exploring tech blogs, playing video games, or binge-watching my favorite shows. 🎮📺
 
 
 ## 🌐 Let’s Connect:
