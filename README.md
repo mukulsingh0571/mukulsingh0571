@@ -91,7 +91,7 @@ Feel free to reach out and collaborate with me!
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-</div>
+<!--</div>-->
 
 ###
 
@@ -210,6 +210,7 @@ Feel free to reach out and collaborate with me!
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jest" height="50" alt="jest logo"  />
 <!--</div>-->
+</div>
 
 ###
 
