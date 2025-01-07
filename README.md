@@ -91,19 +91,19 @@ Feel free to reach out and collaborate with me!
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-<!--</div>-->
+</div>
 
 
 
 
 
-<!--<h2 align="left">Development Frameworks/Languages:</h2>-->
+<h2 align="left">Development Frameworks/Languages:</h2>
 
 
 
 
 
-<!--<div align="left">-->
+<div align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
@@ -131,19 +131,19 @@ Feel free to reach out and collaborate with me!
   <img src="https://skillicons.dev/icons?i=webpack" height="50" alt="webpack logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
-<!--</div>-->
+</div>
 
 
 
 
 
-<!--<h2 align="left">Database:</h2>-->
+<h2 align="left">Database:</h2>
 
 
 
 
 
-<!--<div align="left">-->
+<div align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
@@ -153,19 +153,19 @@ Feel free to reach out and collaborate with me!
   <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo"  />
-<!--</div>-->
+</div>
 
 
 
 
 
-<!--<h2 align="left">Cloud Deployments:</h2>-->
+<h2 align="left">Cloud Deployments:</h2>
 
 
 
 
 
-<!--<div align="left">-->
+<div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=heroku" height="50" alt="heroku logo"  />
@@ -175,19 +175,17 @@ Feel free to reach out and collaborate with me!
   <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="netlify logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo"  />
-<!--</div>-->
+</div>
+
+
+
+<h2 align="left">Other Tools:</h2>
 
 
 
 
 
-<!--<h2 align="left">Other Tools:</h2>-->
-
-
-
-
-
-<!--<div align="left">-->
+<div align="left">
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo"  />
@@ -209,7 +207,6 @@ Feel free to reach out and collaborate with me!
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jest" height="50" alt="jest logo"  />
-<!--</div>-->          <!-- remove when organising categorically  -->
 </div>
 
 ###
