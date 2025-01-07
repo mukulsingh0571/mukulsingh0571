@@ -5,7 +5,8 @@
 <!--<br clear="both">-->
 
 
-# About Me 👨‍💻✨
+### About Me 👨‍💻✨
+---
 
 Hello there! I'm **Mukul Singh**, a passionate **Full Stack Developer** 🚀 from **Kanpur, India** 🇮🇳.  
 I’m a **Computer Science and Engineering Graduate (B.Tech, 2024)** 🎓, dedicated to crafting **modern, efficient, and impactful web solutions**.
