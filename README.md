@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋! Mukul Singh here!!<br>Welcome to my Full Stack Developer profile!!</h1>
 
-###
 
 <!--<br clear="both">-->
 
 
-### About Me 👨‍💻✨
----
+## About Me 👨‍💻✨
+
 
 Hello there! I'm **Mukul Singh**, a passionate **Full Stack Developer** 🚀 from **Kanpur, India** 🇮🇳.  
 I’m a **Computer Science and Engineering Graduate (B.Tech, 2024)** 🎓, dedicated to crafting **modern, efficient, and impactful web solutions**.
@@ -20,21 +19,20 @@ I’m a **Computer Science and Engineering Graduate (B.Tech, 2024)** 🎓, dedic
 - **☁️ Cloud & DevOps**: Deploying applications with **AWS**, **Docker**, **Kubernetes**, **Vercel**, and **Netlify**.  
 - **💡 Full-Stack Solutions**: Building end-to-end applications using the **MERN stack**.  
 
----
+
 
 ## 🎯 My Mission:
 - **📚 Keep Learning**: I believe in continuous learning and staying updated with cutting-edge technologies.  
 - **🤝 Collaboration**: Contribute to open-source projects and collaborate with developers worldwide.  
 - **🚀 Growth**: Strive to grow as a developer and make a meaningful impact in the tech community.
 
----
+
 
 ## 🌟 Fun Facts About Me:
 - 🎮 I love gaming and exploring new tech!  
 - 🎯 Solving challenges on **HackerRank** and **LeetCode** is my idea of fun.  
 - 🍿 When I’m not coding, I’m probably binge-watching my favorite shows or reading tech blogs.
 
----
 
 ## 🌐 Let’s Connect:
 Feel free to reach out and collaborate with me!  
@@ -42,7 +40,7 @@ Feel free to reach out and collaborate with me!
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:mukulsingh0571@gmail.com)  
 [![HackerRank](https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge)](https://www.hackerrank.com/profile/mukulsingh0571)
 
----
+
 
 ✨ *“Code is like humor. When you have to explain it, it’s bad.” – Cory House* ✨
 
