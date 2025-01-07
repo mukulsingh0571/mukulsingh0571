@@ -214,7 +214,7 @@ Feel free to reach out and collaborate with me!
 
 ###
 
-<br clear="both">
+
 
 <h2 align="left">GitHub Stats:</h2>
 
