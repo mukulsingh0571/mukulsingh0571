@@ -22,11 +22,6 @@ I’m a **Computer Science and Engineering Graduate (B.Tech, 2024)** 🎓, dedic
 
 
 
-## 🚀 Interests:
-- Creating dynamic and responsive websites.
-- Exploring DevOps tools and practices.
-- Learning about cutting-edge technologies like **AI** and **Blockchain**.
-- Contributing to open-source projects.
 
 When I'm not coding, you can find me exploring tech blogs, playing video games, or binge-watching my favorite shows. 🎮📺
 
@@ -40,9 +35,7 @@ Feel free to reach out and collaborate with me!
   <a href="www.linkedin.com/in/mukul-singh-95385720a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/mukulsingh0571" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
+  
   <a href="https://www.instagram.com/maverick.mukul/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -50,10 +43,33 @@ Feel free to reach out and collaborate with me!
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
-  <a href="https://www.hackerearth.com/@mukulsingh0571" target="_blank">
+  
+</div>
+
+
+
+##My Coding Profiles
+
+<a href="https://leetcode.com/mukulsingh0571" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
+</a>
+
+<a href="https://www.codechef.com/users/mukulsingh0571" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codechef logo" />
+</a>
+
+<a href="https://codeforces.com/profile/mukulsingh0571" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codeforces logo" />
+</a>
+
+<a href="https://www.hackerearth.com/@mukulsingh0571" target="_blank">
   <img src="https://img.shields.io/static/v1?message=HackerEarth&logo=hackerearth&label=&color=2C3454&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerearth logo" />
 </a>
-</div>
+
+
+<a href="https://www.hackerrank.com/profile/mukulsingh0571" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
 
 
 
