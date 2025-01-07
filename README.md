@@ -22,7 +22,7 @@ I’m a **Computer Science and Engineering Graduate (B.Tech, 2024)** 🎓, dedic
 
 
 
-### 🚀 Interests:
+## 🚀 Interests:
 - Creating dynamic and responsive websites.
 - Exploring DevOps tools and practices.
 - Learning about cutting-edge technologies like **AI** and **Blockchain**.
